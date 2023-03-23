@@ -1,0 +1,8 @@
+D:\Ткаченко\уауауауауауауа\obj\Debug\уауауауауауауа.csproj.AssemblyReference.cache
+D:\Ткаченко\уауауауауауауа\obj\Debug\уауауауауауауа.csproj.SuggestedBindingRedirects.cache
+D:\Ткаченко\уауауауауауауа\obj\Debug\уауауауауауауа.csproj.CoreCompileInputs.cache
+D:\Ткаченко\уауауауауауауа\bin\Debug\уауауауауауауа.exe.config
+D:\Ткаченко\уауауауауауауа\bin\Debug\уауауауауауауа.exe
+D:\Ткаченко\уауауауауауауа\bin\Debug\уауауауауауауа.pdb
+D:\Ткаченко\уауауауауауауа\obj\Debug\уауауауауауауа.exe
+D:\Ткаченко\уауауауауауауа\obj\Debug\уауауауауауауа.pdb
